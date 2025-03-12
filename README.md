@@ -1,2 +1,6 @@
-# Calvary-Chapel-Gridley
-A main repository to host information and documents relevant to Calvary Chapel Gridley
+# Calvary Chapel Gridley
+
+
+Welcome to Calvary Chapel of Gridleys' official Github Organization.
+
+This org is used for collaboration for our team-based ministries that require work to be shared across different roles.
